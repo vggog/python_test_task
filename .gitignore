@@ -2,3 +2,5 @@
 .idea
 .venv
 dump
+src/__pycache__/
+src/config/__pycache__/
